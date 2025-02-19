@@ -139,11 +139,4 @@ It may work on other Debian/Ubuntu derivatives as well, provided the above tools
    - Combines data from the SCAN, ENUM, and EXPLOIT steps.  
    - Generates a comprehensive PDF report (`results.pdf`).
 
----
 
-
-
-*Happy Hacking and Stay Legal!*  
-For contributions, issues, or further inquiries, please open an [issue](https://github.com/your-username/DomainEdge/issues) or submit a pull request.  
-
-© 2025 Your Name or GitHub Username.  
