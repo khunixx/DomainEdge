@@ -88,12 +88,12 @@ It may work on other Debian/Ubuntu derivatives as well, provided the above tools
 
 2. **Make the Script Executable** (if needed):
    ```bash
-   chmod +x ad_enum_exploit.sh
+   chmod +x DomainEdge.sh
    ```
 
 3. **Run the Script**:
    ```bash
-   sudo ./ad_enum_exploit.sh
+   sudo ./DomainEdge.sh
    ```
    > The script requires `sudo` privileges because it needs to install packages and perform network scans that typically require elevated privileges.
 
